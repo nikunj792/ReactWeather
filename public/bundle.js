@@ -27224,6 +27224,11 @@
 					'h2',
 					null,
 					'Example Component'
+				),
+				React.createElement(
+					'p',
+					null,
+					'Welcome to Example Component'
 				)
 			);
 		}
